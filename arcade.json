@@ -1,0 +1,28 @@
+﻿{
+	"name": "New! Cubiaventuras",
+	"version": "0.2 alpha",
+	"description": "",
+	"id": "com.franche34dev.newcubiaventuras",
+	"viewport-width": 500,
+	"viewport-height": 240,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Audio",
+		"Button",
+		"List",
+		"Sprite",
+		"Text",
+		"Tilemap",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Platform",
+		"scrollto",
+		"solid"
+	]
+}

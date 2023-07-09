@@ -1,0 +1,32 @@
+﻿{
+	"version": 1688783647,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"tierratilemap.png",
+		"cubito-sheet0.png",
+		"cubito-sheet1.png",
+		"cubito-sheet2.png",
+		"monedahud-sheet0.png",
+		"moneda-sheet0.png",
+		"moneda-sheet1.png",
+		"portal-sheet0.png",
+		"dpadizquierda-sheet0.png",
+		"dpadderecha-sheet0.png",
+		"dpadarriba-sheet0.png",
+		"blip_select10.m4a",
+		"blip_select10.ogg",
+		"jump2.m4a",
+		"jump2.ogg",
+		"pickup_coin8.m4a",
+		"pickup_coin8.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
